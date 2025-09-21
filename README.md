@@ -449,13 +449,6 @@ ollama list
 ollama pull qwen3:4b
 ```
 
-#### Database Migration Issues
-```bash
-# Reset database
-flask reset-db
-
-```
-
 #### Frontend Build Issues
 ```bash
 # Clear node modules and reinstall
@@ -505,10 +498,6 @@ npm cache clean --force
 - Dedicated model servers (e.g., multiple Ollama instances)
 - Model versioning and A/B testing
 - Batch processing for embeddings generation
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support
 
