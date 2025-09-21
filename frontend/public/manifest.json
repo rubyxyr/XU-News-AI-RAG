@@ -1,0 +1,20 @@
+{
+  "short_name": "XU-News-AI",
+  "name": "XU-News-AI-RAG: Personalized News Intelligent Knowledge Base",
+  "description": "AI-powered knowledge management system for personalized news intelligence",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1976D2",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "categories": ["productivity", "news", "ai", "knowledge"]
+}
