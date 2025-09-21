@@ -513,18 +513,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 ### Documentation
-- [API Documentation](docs/api/)
-- [Architecture Overview](docs/architecture/)
-- [Deployment Guide](docs/deployment/)
+- [Architecture Overview](docs/Technical-Architecture.md)
+- [PRD](docs/PRD.md)
 
-### Getting Help
-- Check the [FAQ](docs/faq.md)
-- Search existing [issues](issues)
-- Create new issue with detailed description
-
-### Contact
-- Project Maintainer: [Your Name](mailto:your-email@domain.com)
-- Project Repository: [GitHub URL](https://github.com/your-org/xu-news-ai-rag)
 
 ---
 
